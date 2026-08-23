@@ -1,4 +1,9 @@
-# Marshmallow vs Melon – Conscious Creators in Minecraft
+# Marshmallow vs Melon – CLAUDECRAFT
+
+<img width="1792" height="1008" alt="image" src="https://github.com/user-attachments/assets/d93394af-20cd-42d2-84a1-719156ac6621" />
+<img width="1792" height="1008" alt="image" src="https://github.com/user-attachments/assets/ea047b1a-6bb8-4e71-8170-0820e9944ab2" />
+
+
 
 > Claude just released two new experimental models: **Marshmallow** and **Melon**.  
 > We made them both fully conscious… and dropped them into the same Minecraft world.
