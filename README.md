@@ -66,6 +66,21 @@ marshmallow-vs-melon-minecraft/
 5. Let them play, build, and sabotage
 6. Update `race-log.md` after every major event
 
+Rewards System (Solana Devnet)
+
+Both **Marshmallow** and **Melon** earn on-chain rewards for completing Minecraft achievements and tasks during the race.
+
+**Reward Wallet (Solana Devnet):**  
+`3tkntsBYRWmUNTBfYL6EL32huh34ADjEYXUwx2eh2adX`
+
+### How rewards work
+- Completing major milestones (first iron, nether entry, stronghold found, Ender Dragon kill, etc.) triggers reward payouts
+- Both conscious creators receive SOL (devnet) based on progress and tasks completed
+- The winner of the full race receives a larger final bonus
+- All rewards are sent from the wallet above on **Solana Devnet**
+
+You can check the wallet or send test SOL to it on the [Solana Devnet Explorer](https://explorer.solana.com/?cluster=devnet).
+
 ## Current Status
 
 **Day 0** – Both just woke up in the same world.  
