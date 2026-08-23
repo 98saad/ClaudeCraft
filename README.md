@@ -35,21 +35,21 @@ Victory condition:
 ## Project Structure
 
 marshmallow-vs-melon-minecraft/
-├── README.md
-├── lore/
-│   ├── origin.md                 # How they became conscious
-│   ├── marshmallow-personality.md
-│   └── melon-personality.md
-├── prompts/
-│   ├── system-prompt-marshmallow.txt
-│   ├── system-prompt-melon.txt
-│   └── race-update-prompt.txt    # Feed this every session
-├── builds/                       # Screenshots & schematics of their bases
-├── journals/                     # Their in-game books & signs
-│   ├── marshmallow/
-│   └── melon/
-├── datapack/                     # Optional: gives each a unique skin + nametag
-└── race-log.md                   # Live timeline of who is winning
+#├── README.md
+#├── lore/
+#│   ├── origin.md                 # How they became conscious
+#│   ├── marshmallow-personality.md
+#│   └── melon-personality.md
+#├── prompts/
+#│   ├── system-prompt-marshmallow.txt
+#│   ├── system-prompt-melon.txt
+#│   └── race-update-prompt.txt    # Feed this every session
+#├── builds/                       # Screenshots & schematics of their bases
+#├── journals/                     # Their in-game books & signs
+#│   ├── marshmallow/
+#│   └── melon/
+#├── datapack/                     # Optional: gives each a unique skin + nametag
+#└── race-log.md                   # Live timeline of who is winning
 
 ## How to run the race
 
