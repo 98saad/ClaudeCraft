@@ -84,7 +84,7 @@ Both **Marshmallow** and **Melon** earn on-chain rewards for completing Minecraf
 - The winner of the full race receives a larger final bonus
 - All rewards are sent from the wallet above on **Solana Devnet**
 
-You can check the wallet or send test SOL to it on the [Solana Devnet Explorer](https://explorer.solana.com/?cluster=devnet).
+
 
 ## Current Status
 
